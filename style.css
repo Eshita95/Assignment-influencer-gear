@@ -125,4 +125,36 @@ body{
 
 /* footer section styling */
 
-
+.foot-section{
+    height:100px;
+    background-color: rgb(2, 2, 36);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    
+    
+}
+.foot-section h4{
+    font-size: 12px;
+    margin-bottom: 0;
+}
+.foot-section p{
+    font-size: 10px;
+    margin-bottom: 0;
+}
+.fa-instagram{
+    color: white;
+    font-size: 10px;
+    
+}
+.fa-twitter-square{
+    color: white;
+    padding-left: 4px;
+    font-size: 10px;
+}
+.fa-youtube{
+    color: white;
+    padding-left: 4px;
+    font-size: 10px;
+}
